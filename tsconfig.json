@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": ".",
+    "lib": ["es2017", "dom"],
+    "noImplicitAny": false,
+    "noImplicitThis": false,
+    "resolveJsonModule": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "build",
+    "pretty": true,
+    "typeRoots": ["./node_modules/@types"],
+    "strict": true,
+    "strictNullChecks": false,
+    "target": "es2017",
+    "types": ["node"]
+  }
+}

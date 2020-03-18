@@ -1,0 +1,19 @@
+{
+  "name": "backend-coding-challenge",
+  "version": "1.0.0",
+  "description": "Code challenge for Gapless backend developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gapless-PDLB/backend-coding-challenge.git"
+  },
+  "author": "Sascha Braun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gapless-PDLB/backend-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/Gapless-PDLB/backend-coding-challenge#readme"
+}
